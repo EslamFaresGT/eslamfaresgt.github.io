@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 164.35 75.2"
+   version="1.1"
+   id="svg9056"
+   sodipodi:docname="6.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9058"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="4.5153326"
+     inkscape:cx="86.483109"
+     inkscape:cy="31.226936"
+     inkscape:window-width="1390"
+     inkscape:window-height="976"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg9056" />
+  <defs
+     id="defs9050">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect9917"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect9913"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect9909"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <style
+       id="style9048">.cls-1{fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:2px;stroke-dasharray:12;}</style>
+  </defs>
+  <g
+     id="Layer_2"
+     data-name="Layer 2">
+    <g
+       id="Layer_1-2"
+       data-name="Layer 1">
+      <path
+         id="path9052"
+         class="cls-1"
+         d="M 74.359375 1 C 60.039389 1 49.949838 8.5802495 44.089844 23.740234 C 46.209842 23.410235 48.310861 23.180547 50.380859 23.060547 C 52.450857 22.940547 54.550158 22.869141 56.660156 22.869141 C 66.340147 22.875807 76.230088 25.432401 86.330078 30.539062 C 94.296737 34.579058 104.54986 41.539932 117.08984 51.419922 L 1 51.419922 L 1 73 L 121.59961 73 L 139.30078 71 L 151.75 74 L 162.85938 53.519531 L 151.63086 50.669922 A 33 33 0 0 1 143.69922 46.779297 A 88.09 88.09 0 0 1 131.25 36.949219 C 124.57667 30.862558 118.96039 25.862548 114.40039 21.949219 C 109.8404 18.035889 106.29929 15.172707 103.7793 13.359375 C 92.465975 5.1193832 82.659367 1 74.359375 1 z " />
+    </g>
+  </g>
+  <path
+     style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+     d="m 44.09,23.74 c 6.933583,-4.517655 13.866921,-9.035152 18.662722,-11.478439 4.795802,-2.4432874 7.453361,-2.8123929 9.668221,-2.7752715 2.214859,0.037121 3.986565,0.4800475 15.244683,8.4163955 11.258118,7.936347 32.001834,23.364949 46.115424,30.549633 14.11359,7.184684 21.59662,6.126133 19.41866,7.159649 -2.17796,1.033516 -14.01643,4.159056 -40.99336,5.721948 C 85.229415,62.896806 43.115628,62.896806 1,62.896806"
+     id="path9915"
+     inkscape:path-effect="#path-effect9917"
+     inkscape:original-d="m 44.09,23.74 c 6.934338,-4.516496 13.867676,-9.033993 20.800015,-13.552489 2.658664,-0.3681203 5.316223,-0.7372256 7.972834,-1.1073383 1.772777,0.4439441 3.544482,0.8868705 5.315223,1.3288053 20.745549,15.43022 41.489268,30.858823 62.232408,46.286734 C 147.8948,55.63812 155.37783,54.579571 162.86,53.52 c -11.83794,3.126664 -23.67641,6.252204 -35.51611,9.376806 -42.114475,0.001 -84.228262,0.001 -126.34389,0" />
+</svg>
