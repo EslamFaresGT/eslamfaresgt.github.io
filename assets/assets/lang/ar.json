@@ -352,5 +352,6 @@
   "willBeAvailableSoon": "سيكون متاحًا قريبًا",
   "notAvalivaleInWeb": "غير متاح على الويب",
   "play": "PLAY",
-  "debugPrintableWorksheets": "ورقة عمل قابلة للطباعة"
+  "debugPrintableWorksheets": "ورقة عمل قابلة للطباعة",
+  "makeTheScreenBiggerToStartPlaying": "كبر حجم الشاشة لبدء اللعب"
 }
