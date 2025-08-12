@@ -353,5 +353,6 @@
   "notAvalivaleInWeb": "غير متاح على الويب",
   "play": "PLAY",
   "debugPrintableWorksheets": "ورقة عمل قابلة للطباعة",
-  "makeTheScreenBiggerToStartPlaying": "كبر حجم الشاشة لبدء اللعب"
+  "makeTheScreenBiggerToStartPlaying": "كبر حجم الشاشة لبدء اللعب",
+  "versionNumber": "إصدار رقم"
 }

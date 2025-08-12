@@ -352,5 +352,6 @@
   "notAvalivaleInWeb": "Not available on web",
   "play": "PLAY",
   "debugPrintableWorksheets": "Debug Printable Worksheets",
-  "makeTheScreenBiggerToStartPlaying": "Make the screen bigger to start playing"
+  "makeTheScreenBiggerToStartPlaying": "Make the screen bigger to start playing",
+  "versionNumber": "Version"
 }
