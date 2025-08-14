@@ -354,5 +354,6 @@
   "play": "PLAY",
   "debugPrintableWorksheets": "ورقة عمل قابلة للطباعة",
   "makeTheScreenBiggerToStartPlaying": "كبر حجم الشاشة لبدء اللعب",
-  "versionNumber": "إصدار رقم"
+  "versionNumber": "إصدار رقم",
+  "pleaseAllowMicrophoneAccessToStartAudioRecording": "يرجى منح صلاحية الوصول إلى الميكروفون لبدء التسجيل الصوتي"
 }

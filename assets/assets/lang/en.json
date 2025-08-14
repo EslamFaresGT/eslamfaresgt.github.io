@@ -353,5 +353,6 @@
   "play": "PLAY",
   "debugPrintableWorksheets": "Debug Printable Worksheets",
   "makeTheScreenBiggerToStartPlaying": "Make the screen bigger to start playing",
-  "versionNumber": "Version"
+  "versionNumber": "Version",
+  "pleaseAllowMicrophoneAccessToStartAudioRecording": "Please allow microphone access to start audio recording"
 }
