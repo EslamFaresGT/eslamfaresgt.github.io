@@ -354,5 +354,7 @@
   "debugPrintableWorksheets": "Debug Printable Worksheets",
   "makeTheScreenBiggerToStartPlaying": "Make the screen bigger to start playing",
   "versionNumber": "Version",
-  "pleaseAllowMicrophoneAccessToStartAudioRecording": "Please allow microphone access to start audio recording"
+  "pleaseAllowMicrophoneAccessToStartAudioRecording": "Please allow microphone access to start audio recording",
+  "teachersLogin": "*Teachers Login",
+  "noPermissionToLogin": "You do not have permission to log in through this platform"
 }
