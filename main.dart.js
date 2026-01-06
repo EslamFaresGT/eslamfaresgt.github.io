@@ -150774,7 +150774,7 @@ case 1:return A.f(q,r)}})
 return A.h($async$ox,r)},
 Jm(){var s=0,r=A.i(t.H),q=1,p=[],o,n,m,l,k
 var $async$Jm=A.d(function(a,b){if(a===1){p.push(b)
-s=q}while(true)switch(s){case 0:l="web/teacher_access_only/teacher_access_only.html"
+s=q}while(true)switch(s){case 0:l="teacher_access_only/teacher_access_only.html"
 q=3
 o=A.cM(l,0,null)
 s=6
