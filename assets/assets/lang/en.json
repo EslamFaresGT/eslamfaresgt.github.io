@@ -28,6 +28,7 @@
   "child_first_new": "Your child's first name",
   "child_name_msg": "Add your's child name here. You will be able to create additional profiles later.",
   "continue1": "Continue",
+  "continuee": "Continue",
   "child_name": "Child Name",
   "close": "Close",
   "content_cumulative": "Content is Cumulative!",
@@ -348,7 +349,6 @@
   "byPressing": "By pressing SUBSCRIBE you agree to the",
   "and": "and",
   "enjoyLearining": "Join now and enjoy learning",
-  "willBeAvailableSoon": "Will be available soon",
   "notAvalivaleInWeb": "Not available on web",
   "play": "PLAY",
   "debugPrintableWorksheets": "Debug Printable Worksheets",
@@ -356,5 +356,10 @@
   "versionNumber": "Version",
   "pleaseAllowMicrophoneAccessToStartAudioRecording": "Please allow microphone access to start audio recording",
   "teachersLogin": "*Teachers' Login",
-  "noPermissionToLogin": "You do not have permission to log in through this platform"
+  "noPermissionToLogin": "You do not have permission to log in through this platform",
+  "anErrorOccurredWhilePlayingTheVideoPleaseTryAgain": "An error occurred while playing the video, please try again",
+  "debugPrintableWorkSheet": "Debug printable work sheet",
+  "anErrorOccurredPleaseTryAgainLater": "An error occurred, please try again later",
+  "markAllAsRead": "Mark all as read",
+  "willBeAvailableSoon": "Will be available soon"
 }

@@ -27,6 +27,7 @@
   "reset_password": "إعادة تعيين كلمة المرور",
   "child_first_new": "الاسم الأول لطفلك",
   "child_name_msg": "أضف اسم طفلك هنا. ستتمكن من إنشاء ملفات تعريف إضافية لاحقًا.",
+  "continuee": "استمر",
   "continue1": "استمر",
   "child_name": "اسم الطفل",
   "close": "إغلاق",
@@ -349,7 +350,6 @@
   "byPressing": "بالضغط على اشتراك فإنك توافق علي",
   "and": "و",
   "enjoyLearining": "انضم الآن واستمتع بالتعلم",
-  "willBeAvailableSoon": "سيكون متاحًا قريبًا",
   "notAvalivaleInWeb": "غير متاح على الويب",
   "play": "PLAY",
   "debugPrintableWorksheets": "ورقة عمل قابلة للطباعة",
@@ -357,5 +357,11 @@
   "versionNumber": "إصدار رقم",
   "pleaseAllowMicrophoneAccessToStartAudioRecording": "يرجى منح صلاحية الوصول إلى الميكروفون لبدء التسجيل الصوتي",
   "teachersLogin":"*دخول المعلمين ",
-  "noPermissionToLogin": "لا يوجد صلاحية لتسجيل الدخول عبر هذه المنصة"
+  "noPermissionToLogin": "لا يوجد صلاحية لتسجيل الدخول عبر هذه المنصة",
+  "anErrorOccurredWhilePlayingTheVideoPleaseTryAgain": "حدث خطأ أثناء تشغيل الفيديو، يرجى إعادة المحاولة",
+  "debugPrintableWorkSheet": "ورقة عمل قابلة للطباعة لتصحيح الأخطاء",
+  "anErrorOccurredPleaseTryAgainLater": "حدث خطاء، يرجى إعادة المحاولة في وقت لاحق",
+  "markAllAsRead": "تحديد الكل كمقروء",
+  "willBeAvailableSoon": "سوف يكون متاحا قريبا"
+ 
 }
