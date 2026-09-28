@@ -233,7 +233,7 @@
   "subscripeToPlay": "Do you want to subscribe to continue playing?",
   "needToSubscribe": "You need to subscribe to play this letter",
   "subscribeToPlayMusic": "You need to subscribe to unlock this song",
-  "dismiss":"close",
+  "dismiss": "close",
   "subscribeForGenius": "You need to subscribe first to unlock Genius",
   "couldntPurchase": "We couldn't complete your purchase\nPlease try again!",
   "welcomeToTakallam": "Welcome to Takallam",
@@ -396,5 +396,13 @@
   "greatYouFinishedTheStorySuccessfully": "Great! You finished the story successfully",
   "videoPlaybackIssue": "There seems to be an issue playing videos at the moment",
   "pleaseTryAgainLater": "You can continue later",
-  "continue_game": "Continue"
+  "continue_game": "Continue",
+  "pleaseTurnOnTheSoundToPlayIt": "Please turn on the sound to play it",
+  "thisGameIsLockedPleaseContactYourTeacherToUnlockIt": "This game is locked. Please contact your teacher to unlock it",
+  "playInOrderFinishOneGameThenMoveToTheNext": "Play in order. Finish one game, then move to the next.",
+  "thisLevelLocked":"This level is locked.",
+  "skipCount": "Skip count",
+  "readCount":"Read Count",
+  "readingRate":"Reading rate",
+  "cannotOpenGame":"Can't open game"
 }
