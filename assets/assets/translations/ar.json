@@ -396,12 +396,14 @@
   "videoPlaybackIssue": "يبدو ان هناك مشكلة في تشغيل الفيديوهات في الوقت الحالي",
   "pleaseTryAgainLater": "يمكنك المتابعة في وقت لاحق",
   "continue_game": "متابعة",
-  "pleaseTurnOnTheSoundToPlayIt":"برجاء إلغاء كتم الصوت لتشغيل الصوت",
-  "thisGameIsLockedPleaseContactYourTeacherToUnlockIt":"هذِهِ اللُّعبَةُ مُقفَلَةٌ. يُرجَى التَّواصُلُ مَعَ مُعَلِّمِكَ لِفَتْحِها.",
-  "playInOrderFinishOneGameThenMoveToTheNext":"اِلعَب بالتَّرتيب! أَنْهِ لُعْبَةً، ثُمَّ اِنْتَقِل إِلى الَّتي تَلِيها.",
-  "thisLevelLocked":"هذا المستوى مُقفَلٌ",
-  "skipCount":"عدد التخطى",
-  "readCount":"عدد القراءة",
-  "readingRate":"معدل القراءة",
-  "cannotOpenGame":"لا يمكن فتح اللعبة"
+  "pleaseTurnOnTheSoundToPlayIt": "برجاء إلغاء كتم الصوت لتشغيل الصوت",
+  "thisGameIsLockedPleaseContactYourTeacherToUnlockIt": "هذِهِ اللُّعبَةُ مُقفَلَةٌ. يُرجَى التَّواصُلُ مَعَ مُعَلِّمِكَ لِفَتْحِها.",
+  "playInOrderFinishOneGameThenMoveToTheNext": "اِلعَب بالتَّرتيب! أَنْهِ لُعْبَةً، ثُمَّ اِنْتَقِل إِلى الَّتي تَلِيها.",
+  "thisLevelLocked": "هذا المستوى مُقفَلٌ",
+  "skipCount": "عدد التخطى",
+  "readCount": "عدد القراءة",
+  "readingRate": "معدل القراءة",
+  "cannotOpenGame": "لا يمكن فتح اللعبة",
+  "pleaseWaitLoggingIn": "من فضلك انتظر، جاري تسجيل الدخول",
+  "loginFailed": "فشل في تسجيل الدخول"
 }

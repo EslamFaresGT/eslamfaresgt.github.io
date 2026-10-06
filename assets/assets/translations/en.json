@@ -400,9 +400,11 @@
   "pleaseTurnOnTheSoundToPlayIt": "Please turn on the sound to play it",
   "thisGameIsLockedPleaseContactYourTeacherToUnlockIt": "This game is locked. Please contact your teacher to unlock it",
   "playInOrderFinishOneGameThenMoveToTheNext": "Play in order. Finish one game, then move to the next.",
-  "thisLevelLocked":"This level is locked.",
+  "thisLevelLocked": "This level is locked.",
   "skipCount": "Skip count",
-  "readCount":"Read Count",
-  "readingRate":"Reading rate",
-  "cannotOpenGame":"Can't open game"
+  "readCount": "Read Count",
+  "readingRate": "Reading rate",
+  "cannotOpenGame": "Can't open game",
+  "pleaseWaitLoggingIn": "Please wait, logging in",
+  "loginFailed": "Login Failed"
 }
