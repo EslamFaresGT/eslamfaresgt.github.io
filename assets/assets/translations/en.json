@@ -206,8 +206,8 @@
   "who_are_you": "Who are you?",
   "game_passed": "Game passed successfully!",
   "connection_error": "Connection error",
+  "error_opening_document": "Error opening the document",
   "previous_lvl": "Why don't you try the previous level?",
-  "it_fun": "I'm sure it's fun too",
   "it_fun": "I'm sure it's fun too",
   "success": "Success",
   "continue2": "Continue",
@@ -406,5 +406,10 @@
   "readingRate": "Reading rate",
   "cannotOpenGame": "Can't open game",
   "pleaseWaitLoggingIn": "Please wait, logging in",
-  "loginFailed": "Login Failed"
+  "loginFailed": "Login Failed",
+  "audioFileUploadError": "An error occurred while uploading the audio file",
+  "audioRecordingUploadError": "An error occurred while uploading the audio recording",
+  "accountInfo": "Account Information",
+  "cancel_Dialog":"cancel",
+  "confirm_Dialog":"confirm"
 }

@@ -206,6 +206,7 @@
   "who_are_you": "من انت؟",
   "game_passed": "لقد اجتزت اللعبة بنجاح",
   "connection_error": "حدث خطأ بالاتصال",
+  "error_opening_document": "حدث خطأ أثناء فتح المستند",
   "previous_lvl": "لما لا تجرب الرجوع للمستوى السابق؟",
   "it_fun": "متأكد أنها ستكون كسلية أيضاً",
   "success": "تمت بنجاح!",
@@ -356,7 +357,7 @@
   "makeTheScreenBiggerToStartPlaying": "كبر حجم الشاشة لبدء اللعب",
   "versionNumber": "إصدار رقم",
   "pleaseAllowMicrophoneAccessToStartAudioRecording": "يرجى منح صلاحية الوصول إلى الميكروفون لبدء التسجيل الصوتي",
-  "teachersLogin":"*دخول المعلمين ",
+  "teachersLogin": "*دخول المعلمين ",
   "noPermissionToLogin": "لا يوجد صلاحية لتسجيل الدخول عبر هذه المنصة",
   "anErrorOccurredWhilePlayingTheVideoPleaseTryAgain": "حدث خطأ أثناء تشغيل الفيديو، يرجى إعادة المحاولة",
   "debugPrintableWorkSheet": "ورقة عمل قابلة للطباعة لتصحيح الأخطاء",
@@ -405,5 +406,10 @@
   "readingRate": "معدل القراءة",
   "cannotOpenGame": "لا يمكن فتح اللعبة",
   "pleaseWaitLoggingIn": "من فضلك انتظر، جاري تسجيل الدخول",
-  "loginFailed": "فشل في تسجيل الدخول"
+  "loginFailed": "فشل في تسجيل الدخول",
+  "audioFileUploadError": "حدث خطأ أثناء رفع الملف الصوتي",
+  "audioRecordingUploadError": "حدث خطأ أثناء رفع التسجيل الصوتي",
+  "accountInfo": "معلومات الحساب",
+  "cancel_Dialog":"الغاء",
+  "confirm_Dialog":"تأكيد"
 }
