@@ -410,6 +410,7 @@
   "audioFileUploadError": "حدث خطأ أثناء رفع الملف الصوتي",
   "audioRecordingUploadError": "حدث خطأ أثناء رفع التسجيل الصوتي",
   "accountInfo": "معلومات الحساب",
-  "cancel_Dialog":"الغاء",
-  "confirm_Dialog":"تأكيد"
+  "cancel_Dialog": "الغاء",
+  "confirm_Dialog": "تأكيد",
+  "openWebPage": "فتح صفحة الويب"
 }

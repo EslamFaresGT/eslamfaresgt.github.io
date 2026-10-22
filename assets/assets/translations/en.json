@@ -410,6 +410,7 @@
   "audioFileUploadError": "An error occurred while uploading the audio file",
   "audioRecordingUploadError": "An error occurred while uploading the audio recording",
   "accountInfo": "Account Information",
-  "cancel_Dialog":"cancel",
-  "confirm_Dialog":"confirm"
+  "cancel_Dialog": "cancel",
+  "confirm_Dialog": "confirm",
+  "openWebPage": "Open Web Page"
 }
