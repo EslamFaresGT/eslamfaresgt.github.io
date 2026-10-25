@@ -374,6 +374,7 @@
   "PLAY": "PLAY",
   "storyCompleted": "Story completed",
   "uploadingAudio": "Uploading audio",
+  "cantPlayWhileRecording": "Can't play while recording",
   "audioUploadedSuccessfully": "Audio uploaded successfully",
   "audioUploadedFailed": "Audio uploaded failed",
   "maximumRecordingTimeExceeded": "Maximum recording time exceeded",

@@ -374,6 +374,7 @@
   "PLAY": "تشغيل",
   "storyCompleted": "تَمَّ الاِنتِهاء مِن القِصَّة.",
   "uploadingAudio": "جارٍ رَفعُ الصَّوْت.",
+  "cantPlayWhileRecording": "لا يُمكِنُ التَّشغيلُ أَثْناءَ التَّسجيل.",
   "audioUploadedSuccessfully": "تَمَّ رَفعُ التَّسجيلِ بِنَجاحٍ.",
   "audioUploadedFailed": "فَشلُ رَفعُ التَّسجيلِ.",
   "maximumRecordingTimeExceeded": "تَمَّ تَجاوُزُ الحَدِّ الْأَقْصَى لِوَقتِ التَّسْجيل.",
